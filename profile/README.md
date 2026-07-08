@@ -1,14 +1,10 @@
 # dotfiles-mac
 
-Personal dotfiles, Mac automation scripts, and system configuration templates.
+Lightweight personal dotfiles and macOS setup.
 
-## What is here
-
-- Shell configs and aliases
-- macOS defaults and automation
-- Brewfiles and package lists
-- Editor and tool preferences
-
-## Links
+- Shell configs & aliases
+- macOS defaults & automation
+- Brewfiles & package lists
+- Editor & tool preferences
 
 [source](https://github.com/dotfiles-mac/.github)
